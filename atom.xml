@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>POJO</title>
+  
+  
+  <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/ZGHS/pojo_blog.git/"/>
+  <updated>2021-05-19T13:14:56.060Z</updated>
+  <id>https://github.com/ZGHS/pojo_blog.git/</id>
+  
+  <author>
+    <name>�Ÿۻ�</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/"/>
+    <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/</id>
+    <published>2021-05-19T13:14:25.000Z</published>
+    <updated>2021-05-19T13:14:56.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>��һƪ����<br>Hello</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;��һƪ����&lt;br&gt;Hello&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

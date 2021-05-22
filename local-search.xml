@@ -8,7 +8,7 @@
     <link href="/pojo_blog/2021/05/22/hello/"/>
     <url>/pojo_blog/2021/05/22/hello/</url>
     
-    <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
+    <content type="html"><![CDATA[<p>第一篇测试<br>Hello<br><img src="/img/test.jpeg"></p><figure class="highlight isbl"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs isbl"><span class="hljs-function"><span class="hljs-title">alert</span>(<span class="hljs-string">&#x27;Hello World!&#x27;</span>);</span><br></code></pre></div></td></tr></table></figure>]]></content>
     
     
     <categories>

@@ -6,7 +6,7 @@
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ZGHS/pojo_blog.git/"/>
-  <updated>2021-05-22T12:01:01.399Z</updated>
+  <updated>2021-05-22T12:05:09.065Z</updated>
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/22/001/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/22/001/</id>
     <published>2021-05-22T00:14:25.000Z</published>
-    <updated>2021-05-22T12:01:01.399Z</updated>
+    <updated>2021-05-22T12:05:09.065Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p><img src="/pojo_blog/img/test.jpeg" class="" title="插图" alt="此处有图片"><figure class="highlight isbl"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs isbl"><span class="hljs-function"><span class="hljs-title">alert</span>(<span class="hljs-string">&#x27;Hello World!&#x27;</span>);</span><br></code></pre></div></td></tr></table></figure>]]></content>
     
@@ -30,7 +30,7 @@
     
     
     
-    <category term="Life" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Life/"/>
+    <category term="技术" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="测试" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E6%B5%8B%E8%AF%95/"/>
@@ -46,7 +46,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/21/003/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/21/003/</id>
     <published>2021-05-21T13:14:25.000Z</published>
-    <updated>2021-05-22T12:02:00.545Z</updated>
+    <updated>2021-05-22T12:05:33.709Z</updated>
     
     <content type="html"><![CDATA[<p>第三篇测试<br>Hello</p>]]></content>
     
@@ -55,7 +55,7 @@
     
     
     
-    <category term="Diary" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Diary/"/>
+    <category term="生活" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="deepin" scheme="https://github.com/ZGHS/pojo_blog.git/tags/deepin/"/>
@@ -69,7 +69,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/002/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/002/</id>
     <published>2021-05-19T13:14:25.000Z</published>
-    <updated>2021-05-22T12:01:37.308Z</updated>
+    <updated>2021-05-22T12:05:19.803Z</updated>
     
     <content type="html"><![CDATA[<p>第二篇测试<br>Hello</p>]]></content>
     
@@ -78,7 +78,7 @@
     
     
     
-    <category term="Diary" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Diary/"/>
+    <category term="技术" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="Linux" scheme="https://github.com/ZGHS/pojo_blog.git/tags/Linux/"/>

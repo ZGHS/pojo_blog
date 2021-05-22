@@ -6,7 +6,7 @@
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ZGHS/pojo_blog.git/"/>
-  <updated>2021-05-22T11:13:39.580Z</updated>
+  <updated>2021-05-22T11:16:19.924Z</updated>
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/</id>
     <published>2021-05-22T00:14:25.000Z</published>
-    <updated>2021-05-22T11:13:39.580Z</updated>
+    <updated>2021-05-22T11:16:19.924Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
     
@@ -46,7 +46,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/</id>
     <published>2021-05-21T13:14:25.000Z</published>
-    <updated>2021-05-22T11:14:42.225Z</updated>
+    <updated>2021-05-22T11:16:34.298Z</updated>
     
     <content type="html"><![CDATA[<p>第三篇测试<br>Hello</p>]]></content>
     
@@ -71,7 +71,7 @@
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/</id>
     <published>2021-05-19T13:14:25.000Z</published>
-    <updated>2021-05-22T11:14:11.442Z</updated>
+    <updated>2021-05-22T11:16:26.461Z</updated>
     
     <content type="html"><![CDATA[<p>第二篇测试<br>Hello</p>]]></content>
     

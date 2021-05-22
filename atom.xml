@@ -6,7 +6,7 @@
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ZGHS/pojo_blog.git/"/>
-  <updated>2021-05-22T11:36:54.164Z</updated>
+  <updated>2021-05-22T11:56:58.760Z</updated>
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello world</title>
+    <title>电脑工具软件清单</title>
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/</id>
     <published>2021-05-22T00:14:25.000Z</published>
-    <updated>2021-05-22T11:36:54.164Z</updated>
+    <updated>2021-05-22T11:56:58.760Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p><img src="/pojo_blog/img/test.jpeg" class="" title="插图" alt="此处有图片"><figure class="highlight isbl"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs isbl"><span class="hljs-function"><span class="hljs-title">alert</span>(<span class="hljs-string">&#x27;Hello World!&#x27;</span>);</span><br></code></pre></div></td></tr></table></figure>]]></content>
     
@@ -38,20 +38,16 @@
   </entry>
   
   <entry>
-    <title>hello world</title>
+    <title>deepin下启动eclipse的错误解决</title>
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/</id>
     <published>2021-05-21T13:14:25.000Z</published>
-    <updated>2021-05-22T11:16:34.298Z</updated>
+    <updated>2021-05-22T11:59:22.302Z</updated>
     
     <content type="html"><![CDATA[<p>第三篇测试<br>Hello</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;第三篇测试&lt;br&gt;Hello&lt;/p&gt;
-</summary>
-      
+    <summary type="html">启动Eclipse，但是鼠标双击，或者用起动器启动就会出现如下的内容：</summary>
     
     
     
@@ -63,20 +59,16 @@
   </entry>
   
   <entry>
-    <title>hello world</title>
+    <title>Linux TeX Live 安装教程</title>
     <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/</id>
     <published>2021-05-19T13:14:25.000Z</published>
-    <updated>2021-05-22T11:16:26.461Z</updated>
+    <updated>2021-05-22T11:58:10.859Z</updated>
     
     <content type="html"><![CDATA[<p>第二篇测试<br>Hello</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;第二篇测试&lt;br&gt;Hello&lt;/p&gt;
-</summary>
-      
+    <summary type="html">一.获取Tex Live的iso镜像文件</summary>
     
     
     

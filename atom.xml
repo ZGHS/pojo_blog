@@ -6,7 +6,7 @@
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ZGHS/pojo_blog.git/"/>
-  <updated>2021-05-20T03:32:03.687Z</updated>
+  <updated>2021-05-22T02:55:58.711Z</updated>
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>hello world</title>
-    <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/"/>
-    <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/</id>
-    <published>2021-05-19T13:14:25.000Z</published>
-    <updated>2021-05-20T03:32:03.687Z</updated>
+    <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/"/>
+    <id>https://github.com/ZGHS/pojo_blog.git/2021/05/22/hello/</id>
+    <published>2021-05-22T00:14:25.000Z</published>
+    <updated>2021-05-22T02:55:58.711Z</updated>
     
     <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
     
@@ -34,6 +34,60 @@
     
     
     
+    <category term="Life" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Life/"/>
+    
+    
+    <category term="测试" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/"/>
+    <id>https://github.com/ZGHS/pojo_blog.git/2021/05/21/welcome/</id>
+    <published>2021-05-21T13:14:25.000Z</published>
+    <updated>2021-05-22T02:56:44.890Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;第一篇测试&lt;br&gt;Hello&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Diary/"/>
+    
+    
+    <category term="欢迎" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/"/>
+    <id>https://github.com/ZGHS/pojo_blog.git/2021/05/19/hello-world/</id>
+    <published>2021-05-19T13:14:25.000Z</published>
+    <updated>2021-05-22T02:56:11.764Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;第一篇测试&lt;br&gt;Hello&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="https://github.com/ZGHS/pojo_blog.git/categories/Diary/"/>
+    
+    
+    <category term="test" scheme="https://github.com/ZGHS/pojo_blog.git/tags/test/"/>
     
   </entry>
   

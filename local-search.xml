@@ -5,12 +5,74 @@
   
   <entry>
     <title>hello world</title>
+    <link href="/pojo_blog/2021/05/22/hello/"/>
+    <url>/pojo_blog/2021/05/22/hello/</url>
+    
+    <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Life</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hello world</title>
+    <link href="/pojo_blog/2021/05/21/welcome/"/>
+    <url>/pojo_blog/2021/05/21/welcome/</url>
+    
+    <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>欢迎</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>hello world</title>
     <link href="/pojo_blog/2021/05/19/hello-world/"/>
     <url>/pojo_blog/2021/05/19/hello-world/</url>
     
     <content type="html"><![CDATA[<p>第一篇测试<br>Hello</p>]]></content>
     
     
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
     
   </entry>
   

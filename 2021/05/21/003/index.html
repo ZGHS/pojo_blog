@@ -186,7 +186,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      6 字
+      89 字
     </span>
   
 
@@ -238,12 +238,18 @@
             
               <p class="note note-info">
                 
-                  本文最后更新于：5 个月前
+                  本文最后更新于：3 分钟前
                 
               </p>
             
             <div class="markdown-body">
-              <p>第三篇测试<br>Hello</p>
+              <p>启动Eclipse，但是鼠标双击，或者用起动器启动就会出现如下的内容：</p>
+<p>A Java RunTime Environment (JRE) or Java Development Kit (JDK) must be available in order to run Eclipse. No java virtual machine was found after searching the following locations:…</p>
+<p>解决办法是在终端进入你的eclipse目录，然后输入：</p>
+<figure class="highlight mipsasm"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs mipsasm">mkdir <span class="hljs-keyword">jre</span><br><span class="hljs-keyword"></span>cd <span class="hljs-keyword">jre</span><br><span class="hljs-keyword"></span>ln -s 你的<span class="hljs-keyword">JDK目录/bin </span><span class="hljs-keyword">bin</span><br></code></pre></div></td></tr></table></figure>
+
+
+<p>问题解决！</p>
 
             </div>
             <hr>
@@ -291,7 +297,7 @@
                     
                     
                       <a href="/pojo_blog/2021/05/19/002/">
-                        <span class="hidden-mobile">Linux TeX Live 安装教程</span>
+                        <span class="hidden-mobile">Java-jdk12及以后版本下载安装后没有jre的解决办法</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>

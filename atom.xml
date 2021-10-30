@@ -81,9 +81,9 @@
     <category term="技术" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="教程" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E6%95%99%E7%A8%8B/"/>
-    
     <category term="Java" scheme="https://github.com/ZGHS/pojo_blog.git/tags/Java/"/>
+    
+    <category term="教程" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   

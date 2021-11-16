@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>POJO�Ĳ���</title>
+  <title>POJO的博客</title>
   
   
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
-    <name>�Ÿۻ�</name>
+    <name>张港华</name>
     
   </author>
   

@@ -6,7 +6,7 @@
   <link href="https://github.com/ZGHS/pojo_blog.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/ZGHS/pojo_blog.git/"/>
-  <updated>2025-06-11T04:32:20.299Z</updated>
+  <updated>2026-05-08T12:56:54.690Z</updated>
   <id>https://github.com/ZGHS/pojo_blog.git/</id>
   
   <author>
@@ -17,23 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>崔</title>
+    <title>朋友</title>
     <link href="https://github.com/ZGHS/pojo_blog.git/2025/06/11/005/"/>
     <id>https://github.com/ZGHS/pojo_blog.git/2025/06/11/005/</id>
     <published>2025-06-11T04:15:00.000Z</published>
-    <updated>2025-06-11T04:32:20.299Z</updated>
+    <updated>2026-05-08T12:56:54.690Z</updated>
     
-    <content type="html"><![CDATA[<p>崔</p><img src="/pojo_blog/img/cui/cui00001.jpg" class="" title="插图" alt="此处有图片"><img src="/pojo_blog/img/cui/cui00002.jpg" class="" title="插图" alt="此处有图片"><video src="/pojo_blog/video/Imagine_Dragons_Bones.mp4" autoplay="true" controls="controls" width="400" height="300"></video>]]></content>
-    
-    
-    <summary type="html">崔</summary>
+    <content type="html"><![CDATA[<p>生活</p><img src="/pojo_blog/img/cui/cui00001.jpg" class="" title="插图" alt="此处有图片"><img src="/pojo_blog/img/cui/cui00002.jpg" class="" title="插图" alt="此处有图片"><video src="/pojo_blog/video/Imagine_Dragons_Bones.mp4" autoplay="true" controls="controls" width="400" height="300"></video>]]></content>
     
     
+    <summary type="html">朋友</summary>
     
-    <category term="崔" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E5%B4%94/"/>
     
     
-    <category term="崔" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E5%B4%94/"/>
+    <category term="生活" scheme="https://github.com/ZGHS/pojo_blog.git/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="生活" scheme="https://github.com/ZGHS/pojo_blog.git/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
